@@ -1,0 +1,22 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn node",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abelamare/testproject.git"
+  },
+  "author": "Abel Amare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abelamare/testproject/issues"
+  },
+  "homepage": "https://github.com/abelamare/testproject#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
